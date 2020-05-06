@@ -1,0 +1,89 @@
+* {
+    background-color: cyan;
+}
+
+.one {
+    background-color: darkcyan;
+    width: 75%;
+    height: 85%;
+    min-width: 50%;
+    margin-left: 160px;
+    margin-top: 20px;
+    border: 2px dashed black;
+}
+
+h1 {
+    background-color: darkcyan;
+    margin-left: 170px;
+    font-style: italic;
+    text-decoration: underline;
+    padding-top: 10px;
+}
+
+a {
+    background-color: pink;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.two {
+    background-color: pink;
+    padding-top: 5px;
+    padding-left: 70px;
+}
+
+.three {
+    background-color: darkcyan;
+}
+
+.four {
+    display: inline-block;
+    vertical-align: center;
+    width: 50%;
+    height: 80%;
+    margin-left: 60px;
+    background-color: darkcyan;
+}
+
+img {
+    margin-left: 50PX;
+    margin-top: 15px;
+    margin-bottom: 85px;
+}
+
+h2 {
+    background-color: darkcyan;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+p {
+    background-color: darkcyan;
+    line-height: 25px;
+    text-indent: 50px;
+}
+
+p :first-letter {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+footer {
+    background-color: khaki;
+}
+
+footer.a {
+    background-color: khaki;
+}
+
+.ten,
+.ted,
+.teb {
+    background-color: khaki;
+    margin-right: 120px;
+}
+
+.ten {
+    padding-left: 195px;
+}

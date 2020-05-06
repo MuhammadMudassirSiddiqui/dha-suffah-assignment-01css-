@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>practice</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+
+<body>
+    <div class="one">
+        <h1>The daily Kitith:</h1>
+        <div class="two">
+            <a href="">feral Adventurus</a>
+            <a href="">kibblekibblitz</a>
+            <a href="">Tall Twitch Talls</a>
+            <a href="">Sunny window</a>
+        </div>
+        <div class="three">
+            <!----  <h2>busy Kitteh Very Busy;</h2>-->
+            <img src="images/cats.jpeg" alt="cat" title="mudassir">
+            <div class="four">
+                <h2>busy Kitteh Very Busy;</h2>
+
+
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni expedita illum nemo? Laboriosam placeat consectetur suscipit. Quaerat nostrum, nobis sapiente dolorem tempore iste nemo, veritatis minima, libero sint exercitationem similique.,Lorem
+                    ipsum dolor sit amet consectetur adipisicing elit. At aliquid labore officia voluptatem perspiciatis fuga, tenetur voluptate temporibus rerum earum similique beatae amet in ipsam vitae quod itaque debitis qui.,Lorem ipsum dolor sit
+                    amet consectetur adipisicing elit. Natus possimus ad voluptate. Dignissimos, voluptas! Ea laborum error iusto eligendi dolor ullam temporibus sequi debitis ab. A dolores quis iusto omnis?,Lorem ipsum dolor sit amet consectetur adipisicing
+                    elit. Error nemo, tempora, iusto sequi sapiente dolores at debitis ipsum recusandae vitae esse repudiandae animi commodi, dolor labore! Unde provident quibusdam ducimus.</p>
+            </div>
+
+            <footer>
+                <a href="" class="ten">SubsCribe</a>
+                <a href="" class="teb">pat the Editor</a>
+                <a href="" class="ted">Send Us Catnip</a>
+            </footer>
+        </div>
+
+
+    </div>
+</body>
+
+</html>
