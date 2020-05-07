@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>piaic.In</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <div class="one">
+        <div class="oneone">
+            <a href="">first link</a>
+            <a href="">second link</a>
+            <a href="">third link</a>
+            <a href="">fourth link</a>
+            <a href="">fifth link</a>
+        </div>
+        <img src="images/bhai.png" alt="arif alvi" title="mudassir">
+        <div class="onetwo">
+            <h1> Presidential Initiative </h1>
+            <h2>for Artificial Intelligence & Computing (PIAIC)</h2>
+            <p id="dog">The mission of PIAIC is to reshape Pakistan by revolutionizing education, research, and business by adopting latest, cutting-edge technologies. Experts are calling this the 4th industrial revolution. We want Pakistan to become a global hub
+                for AI, data science, cloud native computing, edge computing, blockchain, augmented reality, and internet of things.</p>
+            <div class="onetwoone"> <label for="">
+                    <input type="button" value="Submit" > <b id="cat">|</b>
+                </label>
+                <div class="onetwotwo">
+                    <b>9O K+</b>
+                    <p>Applications requists</p>
+                </div>
+            </div>
+            <h1 class="hone">Available Programs</h1>
+        </div>
+    </div>
+</body>
+
+</html>

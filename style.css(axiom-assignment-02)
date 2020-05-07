@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding-left: 10
+}
+
+.one {
+    height: 100%;
+    background-color: lavender;
+    border: 2px solid black;
+}
+
+.oneone {
+    height: 40px;
+    padding-left: 600px;
+    padding-top: 15px;
+    background-color: rgb(58, 110, 58);
+}
+
+img {
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 250px;
+}
+
+a {
+    margin-left: 50px;
+    background-color: rgb(58, 110, 58);
+    color: whitesmoke;
+    font-style: italic;
+    text-decoration: overline;
+    font-weight: bold;
+}
+
+.onetwo {
+    width: 60%;
+    height: 80%;
+    display: inline-block;
+    vertical-align: text-bottom;
+    padding-bottom: 200px;
+    padding-left: 100px;
+    margin-top: 150px;
+}
+
+.onetwoone {
+    width: 300px;
+    height: 50px;
+    margin-top: 200px;
+    margin-left: 500px;
+}
+
+input {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 45px;
+    padding-left: 45px;
+    background-image: linear-gradient(to right, rgb(46, 77, 46), rgb(77, 243, 77));
+    border: 1px solid black;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.onetwotwo {
+    padding-left: 500;
+    width: 120px;
+    height: 40px;
+    display: inline-block;
+    vertical-align: text-bottom;
+}
+
+b {
+    font-weight: bold;
+    font-size: 35px;
+    width: 100px;
+}
+
+#cat {
+    font-size: 50px;
+}
+
+h2 {
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+#dog {
+    line-height: 25px;
+    text-align: justify;
+}
+
+.hone {
+    letter-spacing: 15px;
+    word-spacing: 10px;
+    margin-top: 60px;
+    margin-right: 215px;
+}
